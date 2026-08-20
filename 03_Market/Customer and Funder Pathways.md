@@ -6,15 +6,15 @@ Kidd's Technical Services, LLC (KTS) uses practical customer and funder pathways
 
 A customer pathway identifies who has the problem, who can approve the work, what KTS will deliver, and how KTS will be paid. A funder pathway identifies the lawful source of funds that may support a customer project or KTS business operations.
 
-KTS distinguishes among direct customer payment, customer grant funding, sponsorship, commercial financing, nonprofit funding, public funding, and related-party transactions. No organization, funder, grant, sponsor, customer, or project is treated as committed unless the appropriate approval, written agreement, and funding authorization are in place.
+KTS distinguishes among direct customer payment, customer grant funding, sponsorship, commercial financing, nonprofit funding, public funding, related-party transactions, Harmony for Hope community-benefit projects, and MountainShares/ALLIS participation pathways. No organization, funder, grant, sponsor, customer, project, or participation benefit is treated as committed unless the appropriate approval, written agreement, authorization, and funding terms are in place.
 
 ## Customer Pathways
 
-KTS begins with the customer’s immediate need and offers a service sized to the customer’s authority, budget, timeline, and intended outcome.
+KTS begins with the customer’s immediate need and offers a service sized to the customer’s authority, budget, timeline, intended outcome, and access requirements.
 
 ### Local Small Businesses
 
-Local small businesses may engage KTS directly for practical customer-access, map, and local-information services.
+Local small businesses may engage KTS directly for practical customer-access, map, local-information, and web-connected services.
 
 Typical decision-makers include the owner, manager, operator, or authorized marketing contact.
 
@@ -30,15 +30,15 @@ Typical first services include:
 Typical payment pathway:
 
 ```text
-Business identifies customer-access problem
+Business identifies a customer-access problem
         ↓
-KTS provides defined scope and price
+KTS provides a defined scope and price
         ↓
-Business approves proposal or service agreement
+Business approves a proposal or service agreement
         ↓
 Business pays KTS directly
         ↓
-KTS delivers agreed map, information tool, page, or support service
+KTS delivers the agreed map, information tool, page, or support service
 ```
 
 A small business may begin with a one-time fixed-price project and later add recurring update, map, website-support, or managed-information services.
@@ -67,7 +67,7 @@ Website or marketing firm includes KTS work in its client proposal
         ↓
 Firm and KTS agree on scope, price, schedule, ownership, and client communication
         ↓
-Firm pays KTS as subcontractor after agreed milestone or delivery
+Firm pays KTS as subcontractor after an agreed milestone or delivery
 ```
 
 Or:
@@ -84,9 +84,11 @@ Client pays KTS directly
 
 ### Nonprofits and Community Organizations
 
-Nonprofits and community organizations may engage KTS for mapping, public information, grant-support visualization, resource directories, heritage access, event tools, data organization, and ALLIS-related work.
+Nonprofits and community organizations may choose the pathway that fits their mission, project authority, funding, timeline, governance needs, and desired relationship with KTS.
 
-Typical decision-makers include an executive director, program director, board-authorized officer, project manager, or other authorized representative.
+They may engage KTS directly for mapping, public information, grant-support visualization, resource directories, heritage access, event tools, data organization, and ALLIS-related work. They may also consider an H4H community-benefit pathway or a MountainShares/ALLIS participation pathway when the project fits the applicable mission, governance, program, and funding requirements.
+
+Typical decision-makers include an executive director, program director, board-authorized officer, project manager, collection steward, or other authorized representative.
 
 Typical first services include:
 
@@ -97,33 +99,95 @@ Typical first services include:
 - Digital Heritage Map Preservation assessment.
 - Public map, archive, kiosk, local-network, or ALLIS discovery pilot.
 
-Typical payment pathways include:
+### Direct Nonprofit-to-KTS Pathway
+
+A nonprofit is not required to use Harmony for Hope, Inc. or any shared-platform pathway to work with KTS.
+
+A nonprofit may engage KTS directly when it has its own approved project, budget, authority, funding source, and decision-making process. This route is appropriate when the nonprofit wants a direct professional-services relationship, prefers to manage its own fundraising and grants, needs to move on its own timeline, or does not need outside charitable stewardship or shared-platform participation.
+
+Under a direct engagement, the nonprofit remains the customer and project steward. The nonprofit defines its mission outcome, authorizes the work, manages its funds, maintains responsibility for grants and donors, and approves project decisions and public-facing materials.
+
+Typical direct payment sources include:
 
 - Unrestricted operating funds.
 - Approved program budget.
-- Sponsor support.
-- Donor support.
+- Sponsor or donor support.
 - Membership or event revenue.
 - Grant funds that expressly allow vendor or contractor services.
 - A blended approach in which early planning is paid from existing funds and later implementation is funded after an award or sponsorship.
 
 ```text
-Organization identifies program or community need
+Nonprofit identifies its own need and available funding
         ↓
-KTS provides scope and defined professional-service cost
+Nonprofit contacts KTS directly
         ↓
-Organization follows its approval process
+KTS provides a scope, budget, schedule, and deliverable list
         ↓
-Organization pays KTS from an authorized funding source
+Nonprofit completes its own approval, procurement, and funding review
         ↓
-KTS delivers approved work under a written agreement
+Nonprofit and KTS enter a written agreement
+        ↓
+Nonprofit pays KTS from an authorized source
+        ↓
+KTS delivers approved work and provides agreed handoff, support, or managed service
 ```
 
-KTS does not assume that a nonprofit grant, donation, charitable contribution, or restricted fund may be used for KTS services. The organization is responsible for confirming that the expenditure is permitted and properly approved.
+KTS does not assume that a nonprofit grant, donation, charitable contribution, or restricted fund may be used for KTS services. The nonprofit is responsible for confirming that the expense is permitted and properly approved.
+
+### Harmony for Hope Community-Benefit Pathway
+
+Harmony for Hope, Inc. (H4H) provides a potential mission-based pathway for qualifying community-benefit projects that need charitable stewardship, community coordination, fundraising, partner engagement, sponsor development, grant administration, or a nonprofit-led project structure.
+
+A community need may be identified by a resident, family, library, archive, museum, historical society, church, cemetery group, school, nonprofit, local government, tourism organization, or other community partner. When the need aligns with H4H’s charitable mission, H4H may evaluate whether to sponsor, lead, administer, fundraise for, host, or otherwise support a defined community-benefit project.
+
+If H4H accepts a project, H4H retains responsibility for charitable purpose, project governance, fund stewardship, donor and grant restrictions, beneficiary focus, public-benefit outcome, and applicable board or authorized approval process.
+
+KTS may serve as a contracted technical implementation provider for an approved H4H project. KTS services may include mapping, data preparation, digitization coordination, digital-heritage preservation, public-information tools, QR-linked access, web or kiosk experiences, local-network or offline-capable access, ALLIS deployment, training, managed operation, and technical support.
+
+```text
+Community need or project idea
+        ↓
+H4H mission and feasibility review
+        ↓
+H4H project approval, stewardship, and funding strategy
+        ↓
+Authorized grant, donor, sponsor, or project funds
+        ↓
+Written H4H–KTS scope, budget, deliverables, and approval process
+        ↓
+KTS technical implementation and project delivery
+        ↓
+Approved public-benefit access, handoff, support, or managed operation
+```
+
+H4H is not required to sponsor every KTS project, and KTS may independently serve commercial customers, families, organizations, and public entities outside the H4H pathway.
+
+Likewise, KTS is not automatically entitled to perform work for an H4H project. H4H must independently determine that KTS is appropriate for the work, that the scope and price are reasonable, that payment is permitted by the funding source, and that the decision follows H4H’s applicable conflict-of-interest and approval process.
+
+For any H4H–KTS project, the parties will document:
+
+- The charitable or community-benefit purpose.
+- Intended beneficiaries and public-benefit outcome.
+- H4H’s stewardship, governance, fundraising, and approval responsibilities.
+- KTS’s technical scope, price, deliverables, schedule, and payment terms.
+- Source of funds and any donor, grant, sponsor, or program restrictions.
+- Ownership, licensing, collection stewardship, data access, and public-release terms.
+- Project reporting, maintenance, hosting, support, export, and handoff responsibilities.
+- Disclosure and management of related-party relationships and conflicts of interest.
+
+### MountainShares and ALLIS Participation Pathway
+
+Some projects may be better suited to a shared, community-governed, or commons-oriented participation pathway rather than a conventional direct KTS service contract or H4H-sponsored project.
+
+MountainShares and ALLIS participation, access, contribution recognition, governance, eligibility, benefits, funding, and service levels are governed by the applicable program rules, project agreements, access terms, and phased implementation requirements.
+
+KTS may provide technical implementation, support, mapping, preservation, access tools, or ALLIS-related services within an approved MountainShares or community-governed project. Such work requires a documented scope, authorized funding source, defined steward or customer, and clear terms for ownership, access, maintenance, data export, and public benefit.
+
+No nonprofit, community organization, government entity, individual, contributor, or participant receives automatic free access, automatic KTS services, ownership rights, or guaranteed funding merely by expressing interest in H4H, MountainShares, ALLIS, or a community-benefit project.
 
 ### Libraries, Archives, Museums, Heritage, and Cultural Organizations
 
-Libraries, archives, museums, historical societies, churches, cemetery groups, universities, schools, tourism organizations, and cultural groups may engage KTS to preserve, organize, map, and provide approved access to collections and place-based information.
+Libraries, archives, museums, historical societies, churches, cemetery groups, universities, schools, tourism organizations, and cultural groups may engage KTS directly or through an appropriate authorized project pathway to preserve, organize, map, and provide approved access to collections and place-based information.
 
 Typical decision-makers include a director, collection steward, authorized board officer, project lead, department head, librarian, archivist, curator, or other authorized representative.
 
@@ -146,6 +210,7 @@ Typical payment pathways include:
 - Project-specific fundraising.
 - Public or private partnership funding.
 - Vendor contract under an eligible grant-funded project.
+- An approved H4H-sponsored or MountainShares/ALLIS-governed project pathway.
 
 ### Families, Genealogy, Cemetery, and Church Projects
 
@@ -169,6 +234,7 @@ Typical payment pathways include:
 - Church or cemetery association funds.
 - Approved donor or sponsor support.
 - Project-specific fundraising.
+- An approved H4H-sponsored community-benefit project where applicable.
 
 KTS does not make legal, inheritance, lineage, citizenship, tribal-enrollment, title, estate, or privacy determinations. The customer or designated steward remains responsible for permissions, source claims, privacy choices, and release approval.
 
@@ -195,16 +261,17 @@ Typical payment pathways include:
 - Tourism, event, or economic-development funds.
 - Sponsor or partnership funds where permitted.
 - Blended funding combining public funds, local match, sponsor support, and project revenue.
+- An authorized H4H or MountainShares/ALLIS pathway where consistent with public procurement and program requirements.
 
 KTS will comply with applicable procurement, contract, insurance, security, data-governance, and approval requirements before accepting public-sector work.
 
 ## Funder Pathways for Customer Projects
 
-KTS may be paid by a customer using a variety of lawful project-funding sources. The customer, not KTS, is responsible for confirming its eligibility, allowable costs, match requirements, procurement obligations, reporting duties, and grant or sponsor restrictions.
+KTS may be paid by a customer using a variety of lawful project-funding sources. The customer, project steward, lead organization, or authorized sponsoring entity is responsible for confirming eligibility, allowable costs, match requirements, procurement obligations, reporting duties, and grant, donor, sponsor, or program restrictions.
 
 ### Direct Payment
 
-Direct payment is the simplest path for small defined work.
+Direct payment is the simplest path for small, defined work.
 
 Examples include:
 
@@ -215,54 +282,55 @@ Examples include:
 
 ### Customer Grant Funding
 
-A customer may use grant funds to purchase KTS services when:
+A customer, nonprofit, public entity, or authorized project steward may use grant funds to purchase KTS services when:
 
-- The customer is eligible for the grant.
+- The organization or project is eligible for the grant.
 - The grant permits the proposed type of vendor or contractor cost.
-- The customer follows the grant's procurement, match, reporting, and approval requirements.
-- The customer and KTS enter a written agreement defining the work.
+- The organization follows the grant’s procurement, match, reporting, and approval requirements.
+- The organization and KTS enter a written agreement defining the work.
 - KTS invoices only for authorized, documented, reasonable services and deliverables.
 
 KTS may support a customer by preparing maps, scopes, budgets, technical descriptions, deliverable descriptions, or implementation plans. KTS does not guarantee that a grant will be awarded or that a proposed expense will be approved.
 
 ### Sponsorship, Donor Support, and Fundraising
 
-A customer project may be supported by sponsors, donors, memberships, event revenue, community fundraising, or private contributions.
+A customer or community-benefit project may be supported by sponsors, donors, memberships, event revenue, community fundraising, or private contributions.
 
-The customer or sponsoring organization must determine whether the funds may lawfully support KTS services and must document the approved purpose, payment authority, public-recognition terms, and any restrictions.
+The customer, project steward, sponsoring organization, or H4H, when applicable, must determine whether funds may lawfully support KTS services and must document the approved purpose, payment authority, public-recognition terms, and restrictions.
 
-KTS may provide a written scope, budget, deliverable list, and project description for a customer or sponsor to review. KTS does not represent sponsor interest, donor intent, or funding commitment as confirmed until it is documented.
+KTS may provide a written scope, budget, deliverable list, and project description for review. KTS does not represent sponsor interest, donor intent, grant eligibility, or funding commitment as confirmed until it is documented.
 
 ### Public-Private and Community-Benefit Projects
 
-Some projects may combine public, nonprofit, private, sponsor, customer, tourism, donor, or community funding.
+Some projects may combine public, nonprofit, private, sponsor, customer, tourism, donor, community, H4H, MountainShares, or other lawful funding sources.
 
 A blended-funding project should clearly identify:
 
-- The customer or lead organization.
+- The customer, lead organization, or project steward.
 - The authorized decision-maker.
 - The funding source for each project component.
-- KTS's specific deliverables and payment terms.
+- KTS’s specific deliverables and payment terms.
 - Any required procurement or conflict-of-interest process.
 - Ownership, licensing, public-access, and stewardship terms.
 - Support, maintenance, hosting, and future-cost responsibilities.
-- Customer approval requirements before public launch.
+- Customer or steward approval requirements before public launch.
+- The applicable H4H, MountainShares, ALLIS, grant, sponsor, or program-governance requirements.
 
 A practical blended approach may use:
 
 ```text
-Customer or sponsor funds discovery and first-phase planning
+Customer, project steward, or sponsor funds discovery and first-phase planning
         ↓
-Customer seeks eligible grant, donor, sponsor, or public support for implementation
+Lead organization seeks eligible grant, donor, sponsor, public, or program support for implementation
         ↓
 KTS is engaged through an authorized written service agreement
         ↓
-Customer funds ongoing updates, support, or managed service through its operating budget or another approved source
+Lead organization funds ongoing updates, support, or managed service through an operating budget or another approved source
 ```
 
 ## KTS Business-Capital Pathways
 
-Customer project funding is separate from KTS's own operating capital.
+Customer project funding is separate from KTS’s own operating capital.
 
 KTS may build operating capacity through:
 
@@ -278,13 +346,13 @@ KTS may build operating capacity through:
 
 KTS will use business capital for lawful business purposes, such as contractor payments, payroll where applicable, software, hosting, equipment, insurance, marketing, customer acquisition, project-delivery costs, professional services, and working capital.
 
-KTS does not assume that a government, nonprofit, charitable, or grant program will fund KTS directly. KTS will confirm eligibility, permitted uses, repayment requirements, award terms, and documentation requirements before applying for or accepting financing.
+KTS does not assume that a government, nonprofit, charitable, grant, H4H, MountainShares, or ALLIS program will fund KTS directly. KTS will confirm eligibility, permitted uses, repayment requirements, award terms, program rules, and documentation requirements before applying for or accepting financing.
 
 ## Related-Party Boundaries
 
 KTS maintains separation between commercial business activity and any separate nonprofit, community, family, contractor, or affiliated organization.
 
-A related organization, such as Harmony for Hope, Inc., is not automatically a KTS customer, funder, sponsor, partner, employee, contractor, or owner.
+Harmony for Hope, Inc. may provide a documented community-benefit pathway for qualifying projects, but it is not automatically a KTS customer, funder, sponsor, owner, employee, contractor, partner, or exclusive source of work.
 
 Any transaction involving KTS and a related organization must include:
 
@@ -296,7 +364,7 @@ Any transaction involving KTS and a related organization must include:
 - Separate invoices, payment records, accounts, and organizational records.
 - Appropriate conflict-of-interest safeguards.
 
-KTS will not describe a related organization as a customer, sponsor, funder, or partner unless the relationship and project role have been approved and documented.
+KTS will not describe a related organization as a customer, sponsor, funder, partner, or project participant unless the relationship, project role, and authorization are documented.
 
 For additional operational boundaries, see `01_Company/Related-Party Boundaries.md`.
 
@@ -329,7 +397,41 @@ KTS and firm define scope, branding, customer communication, data access, and pa
         ↓
 KTS delivers approved map and related data or embed support
         ↓
-Website firm pays KTS as subcontractor or shared client pays KTS directly under a separate agreement
+Website firm pays KTS as subcontractor or the shared client pays KTS directly under a separate agreement
+```
+
+### Direct Nonprofit Resource Map
+
+```text
+Nonprofit needs a clear service-area and resource map for a proposal and public outreach
+        ↓
+Nonprofit contacts KTS directly and confirms its own available funding
+        ↓
+KTS provides a defined scope and price
+        ↓
+Nonprofit completes internal approval and pays KTS from authorized funds
+        ↓
+KTS delivers the approved map and public-information materials
+        ↓
+Nonprofit may add a larger resource map, updates, managed support, or ALLIS service later
+```
+
+### H4H Community-Benefit Project
+
+```text
+Community partner identifies a heritage, access, public-information, or preservation need
+        ↓
+H4H determines whether the project fits its charitable mission and can be accepted
+        ↓
+H4H establishes project stewardship, approval process, and funding strategy
+        ↓
+Authorized grant, donor, sponsor, or project funds become available
+        ↓
+H4H independently approves a written KTS technical implementation scope
+        ↓
+KTS delivers the agreed work under documented terms
+        ↓
+H4H and the project steward approve public-benefit access, handoff, support, or managed operation
 ```
 
 ### Historical Society Preservation Project
@@ -346,18 +448,6 @@ Society may use the plan to seek eligible support for digitization, map access, 
 If funding is awarded and vendor costs are permitted, society contracts KTS for authorized implementation work
 ```
 
-### Nonprofit Resource Map
-
-```text
-Nonprofit needs a clear service-area and resource map for a proposal and public outreach
-        ↓
-Nonprofit pays KTS from approved operating funds for a grant-ready map package
-        ↓
-KTS delivers map and approved public-information materials
-        ↓
-If a later grant permits it, nonprofit may contract KTS for a larger public resource map, updates, or managed service
-```
-
 ### Family or Cemetery Project
 
 ```text
@@ -365,7 +455,7 @@ Family, church, or cemetery group has scattered records, photographs, and burial
         ↓
 Designated steward approves a private preservation and mapping scope
         ↓
-Group pays through direct funds, pooled contributions, association funds, or approved donor support
+Group pays through direct funds, pooled contributions, association funds, approved donor support, or an authorized community-benefit pathway
         ↓
 KTS organizes materials and delivers agreed archive, map, or QR-linked information
         ↓
@@ -376,8 +466,8 @@ Steward decides whether any portion will remain private, be shared with family, 
 
 Before beginning a funded engagement, KTS seeks to document:
 
-- Customer identity and authorized decision-maker.
-- Customer need and intended outcome.
+- Customer, project steward, or lead organization identity and authorized decision-maker.
+- Customer or community need and intended outcome.
 - Scope of work, deliverables, schedule, assumptions, and exclusions.
 - Price, payment terms, deposit or milestones, and third-party costs.
 - Funding source or payment authority, when relevant.
@@ -386,8 +476,9 @@ Before beginning a funded engagement, KTS seeks to document:
 - Data, privacy, security, stewardship, and access requirements.
 - Support, hosting, maintenance, export, and handoff expectations.
 - Contractor roles and confidentiality requirements when applicable.
+- H4H, MountainShares, ALLIS, grant, sponsor, donor, or program-specific terms where applicable.
 
-KTS may decline or defer work when funding authority, customer authorization, rights, security, access, procurement, scope, payment, or governance requirements are unclear.
+KTS may decline or defer work when funding authority, customer authorization, rights, security, access, procurement, scope, payment, governance, or stewardship requirements are unclear.
 
 ## Operating Principle
 
@@ -395,4 +486,4 @@ KTS begins with a simple question:
 
 > Who has the problem, who can authorize the work, what practical result is needed, and what lawful source will pay for it?
 
-A successful pathway does not require every project to begin with a large grant or complex partnership. Many KTS projects can begin with a small direct-pay service, produce a useful result, create a documented work sample, support paid contractor capacity, and grow into larger customer, partner, preservation, managed-service, or ALLIS-node opportunities over time.
+A successful pathway does not require every project to begin with a large grant or complex partnership. Many KTS projects can begin with a small direct-pay service, produce a useful result, create a documented work sample, support paid contractor capacity, and grow into larger customer, partner, preservation, managed-service, H4H community-benefit, MountainShares, or ALLIS-node opportunities over time.
