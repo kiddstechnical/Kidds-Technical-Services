@@ -7,7 +7,7 @@ Kidd's Technical Services, LLC (KTS) is founder-led by Carrie Kidd and supported
 ## Carrie Kidd
 
 **Founder and Owner**  
-Oak Hill, West Virginia
+Mount Hope, West Virginia
 
 Carrie Kidd leads KTS client relationships, project direction, platform development, information governance, and service delivery. She founded KTS to help businesses, organizations, and communities make local information easier to find, understand, preserve, and use.
 
