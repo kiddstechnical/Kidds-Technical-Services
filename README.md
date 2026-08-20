@@ -84,12 +84,11 @@ KTS does not create unfunded payroll, contractor, vendor, or customer-delivery o
 
 | Location | Contents |
 |---|---|
-| [`START-HERE.md`](START-HERE.md) | Orientation and recommended reading path |
-| [`01_company/`](01_company/) | Company overview, leadership, experience, and related-party boundaries |
-| [`02_services/`](02_services/) | Service descriptions, deployment planning, packages, and pricing approach |
-| [`03_market/`](03_market/) | Customer segments, funding pathways, and go-to-market planning |
+| [`01_Company/`](01_Company/) | Company overview, leadership, experience, and related-party boundaries |
+| [`02_Services/`](02_Services/) | Service descriptions, deployment planning, packages, and pricing approach |
+| [`03_Market/`](03_Market/) | Customer segments, funding pathways, and go-to-market planning |
 | [`04_operations/`](04_operations/) | Delivery model, collection stewardship, data rights, security, and privacy approach |
-| [`05_financials/`](05_financials/) | Revenue model, use of funds, and scenario-based financial projections |
+| [`05_Financials/`](05_Financials/) | Revenue model, use of funds, and scenario-based financial projections |
 | [`06_agreements/`](06_agreements/) | Agreement framework, authorization, payment, data, and delivery controls |
 | [`evidence/`](evidence/) | Source statements and valuation notices |
 
@@ -97,19 +96,18 @@ KTS does not create unfunded payroll, contractor, vendor, or customer-delivery o
 
 ```text
 README.md
-START-HERE.md
 
-01_company/
+01_Company/
   KTS_One_Page_Overview.md
   Leadership_and_Experience.md
   Related_Party_Boundaries.md
 
-02_services/
+02_Services/
   Digital_Heritage_Map_Preservation.md
   ALLIS_Node_Deployment_and_Managed_Service.md
   Service_Packages_and_Pricing_Approach.md
 
-03_market/
+03_Market/
   Initial_Customers_and_Use_Cases.md
   Customer_and_Funder_Pathways.md
   Go_To_Market_Plan.md
@@ -119,10 +117,10 @@ START-HERE.md
   Data_Rights_and_Collection_Stewardship.md
   Security_and_Privacy_Approach.md
 
-05_financials/
-  Revenue_Model.md
-  Use_of_Funds.md
-  Financial_Projections.md
+05_Financials/
+  Revenue Model.md
+  Use of Funds.md
+  Financial Projections.md
 
 06_agreements/
   Agreement_Framework.md
@@ -138,21 +136,20 @@ evidence/
 
 Start with:
 
-1. [`START-HERE.md`](START-HERE.md)
-2. [`02_services/Service_Packages_and_Pricing_Approach.md`](02_services/Service_Packages_and_Pricing_Approach.md)
-3. [`03_market/Initial_Customers_and_Use_Cases.md`](03_market/Initial_Customers_and_Use_Cases.md)
-4. [`04_operations/Delivery_Model.md`](04_operations/Delivery_Model.md)
-5. [`06_agreements/Agreement_Framework.md`](06_agreements/Agreement_Framework.md)
+1. [`02_Services/Service_Packages_and_Pricing_Approach.md`](02_Services/Service_Packages_and_Pricing_Approach.md)
+2. [`03_Market/Initial_Customers_and_Use_Cases.md`](03_Market/Initial_Customers_and_Use_Cases.md)
+3. [`04_operations/Delivery_Model.md`](04_operations/Delivery_Model.md)
+4. [`06_agreements/Agreement_Framework.md`](06_agreements/Agreement_Framework.md)
 
 ### Funders and Advisors
 
 Start with:
 
-1. [`01_company/KTS_One_Page_Overview.md`](01_company/KTS_One_Page_Overview.md)
-2. [`03_market/Customer_and_Funder_Pathways.md`](03_market/Customer_and_Funder_Pathways.md)
-3. [`05_financials/Revenue_Model.md`](05_financials/Revenue_Model.md)
-4. [`05_financials/Use_of_Funds.md`](05_financials/Use_of_Funds.md)
-5. [`05_financials/Financial_Projections.md`](05_financials/Financial_Projections.md)
+1. [`01_Company/KTS_One_Page_Overview.md`](01_Company/KTS_One_Page_Overview.md)
+2. [`03_Market/Customer_and_Funder_Pathways.md`](03_Market/Customer_and_Funder_Pathways.md)
+3. [`05_Financials/Revenue Model.md`](05_Financials/Revenue%20Model.md)
+4. [`05_Financials/Use of Funds.md`](05_Financials/Use%20of%20Funds.md)
+5. [`05_Financials/Financial Projections.md`](05_Financials/Financial%20Projections.md)
 
 ### Operations and Delivery
 
