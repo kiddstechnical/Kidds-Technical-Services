@@ -1,0 +1,30 @@
+Area,Input,Value,Unit,Classification,Evidence / source,How to use it,Public-safe?
+Model,Start month,2026-09,Month,User-confirmed,Conversation,Change only if start changes,Yes
+Cash,Starting KTS business cash,0,USD,User-confirmed,Conversation,Use actual KTS bank balance; currently $0,Yes
+Funding,Discussion case A,25000,USD,User-confirmed choice,Conversation,Not approved financing,Yes
+Funding,Discussion case B,50000,USD,User-confirmed choice,Conversation,Not approved financing,Yes
+Revenue,Contracts / deposits / invoices / POs / LOIs at start,0,USD,User-confirmed,Conversation,Do not assume any customer cash,Yes
+Revenue,ALLIS revenue,0,USD,Business boundary,KTS planning position,Always $0 in starter model,Yes
+People,"Founder payroll, Months 1–24",0,USD/month,User-confirmed,Conversation,No salary assumed in starter model,Yes
+People,Founder future annual target,100000,USD/year,Stated target,Conversation,Future target only; do not use for repayment,Yes
+Personal,Medicaid-waiver caregiver compensation,Excluded,Personal income,User-confirmed,Private pay/tax documents,Not KTS revenue or cash flow; disclose privately if requested,No
+Personal,Personal living costs,0,USD/month,User-provided,Conversation,Validate privately with advisor/lender if requested,No
+Personal,Existing monthly debt payments,0,USD/month,User-provided,Conversation,Validate privately with advisor/lender if requested,No
+Assets,Existing KTS equipment/software/website/insurance,0,USD,User-confirmed,Conversation,Fund startup essentials from funding cases,Yes
+Sales,Initial revenue focus,Local-business packages,Text,User-confirmed,Conversation,Only initial modeled service line,Yes
+Sales,Average local-business package price,2500,USD,Planning assumption,Replace with actual offers/quotes,Editable assumption,Yes
+Sales,Deposit percentage,50%,Percent,Planning policy,Future agreements,50% before delivery,Yes
+Sales,Final collection delay,30,Days,Planning assumption,Future agreements,"Illustrative, not guaranteed",Yes
+Sales,Direct project cost ratio,30%,Percent,Planning assumption,Actual job costing,Contractors/project expenses only,Yes
+Legal,Proposed hourly rate,150,USD/hour,"Proposed, not contracted",Conversation,Obtain signed engagement terms if accepted,Yes
+Legal,Proposed hours per quarter,33,Hours,"Proposed, not contracted",Conversation,Quarterly cap,Yes
+Legal,Quarterly legal budget,4950,USD,Calculated planning budget,33 × $150,Actual invoices govern,Yes
+Legal,Quarterly minor-overhead reserve,50,USD,Planning assumption,Conversation,"Mileage, parking, postage, supplies, etc.",Yes
+Operations,Software/domains/storage/communications,250,USD/month,Planning assumption,Vendor quotes needed,Starter allowance,Yes
+Operations,Insurance,250,USD/month,Planning assumption,Insurance quotes needed,Starter allowance,Yes
+Operations,Bookkeeping/accounting,150,USD/month,Planning assumption,Provider quote needed,Starter allowance,Yes
+Operations,Marketing/outreach,500,USD/month,Planning assumption,Marketing plan needed,Starter allowance,Yes
+Operations,General operating costs,150,USD/month,Planning assumption,Actual receipts needed,Starter allowance,Yes
+Operations,One-time equipment/startup setup,5000,USD,Planning assumption,Equipment quotes needed,Starter case allocation,Yes
+Debt,Illustrative annual interest rate,11%,Percent,Illustrative only,Lender quote needed,Never present as offered rate,Yes
+Debt,Illustrative loan term,84,Months,Illustrative only,Lender quote needed,Never present as approved term,Yes
