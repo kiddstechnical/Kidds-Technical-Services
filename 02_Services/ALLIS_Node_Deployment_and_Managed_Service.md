@@ -8,6 +8,33 @@ An ALLIS node is a configured information-access environment that can organize a
 
 The purpose is not to replace the customer's authority over its information. The purpose is to make approved information easier to find, understand, preserve, and use.
 
+## ALLIS Availability Boundary
+
+ALLIS is not currently offered by Kidd’s Technical Services, LLC (KTS) as a customer product, managed service, subscription, hosted platform, deployment package, or guaranteed technical capability.
+
+This document describes a **future planning concept** for possible ALLIS node deployment and managed-service work. It is not a public offer, statement of availability, customer agreement, service-level agreement, price list, implementation commitment, security certification, hosting commitment, or representation that KTS currently operates ALLIS infrastructure.
+
+KTS does not currently claim:
+
+- Active ALLIS customers, users, subscriptions, contracts, deployments, nodes, or production service.
+- Current ALLIS revenue, recurring revenue, product revenue, licensing revenue, hosting revenue, or managed-service revenue.
+- Availability of ALLIS hosting, storage, secrets management, identity management, credentials, encryption, backups, monitoring, incident response, uptime commitments, data recovery, or customer support.
+- A completed ALLIS product, production-ready software, validated security architecture, approved deployment environment, or independently verified technical performance.
+- A commitment to hire, pay contractors, purchase infrastructure, borrow funds, seek investment, accept customer data, or deploy a customer workload for ALLIS.
+- Compatibility with any particular hardware, network, cloud provider, university, government agency, partner, platform, protocol, standard, or third-party service.
+- Compliance with any security, privacy, accessibility, legal, financial, medical, educational, government, emergency-management, or regulated-data requirement.
+
+Any future ALLIS work would require separate and documented decisions regarding:
+
+1. Product scope, ownership, governance, and funding.
+2. Technical feasibility, architecture, testing, security review, and operational readiness.
+3. Data classification, privacy, retention, access control, credential handling, backup, recovery, monitoring, and incident-response requirements.
+4. Hosting, storage, network, identity, and third-party vendor arrangements.
+5. Customer terms, pricing, support boundaries, service levels, insurance, legal review, and applicable compliance obligations.
+6. Written authorization before any customer data, credentials, production workload, secrets, funding, or operational responsibility is accepted.
+
+Until those decisions are made and publicly documented, ALLIS references should be understood as exploratory and future-facing only. They must not be used to imply that KTS currently provides, sells, hosts, operates, supports, secures, or guarantees an ALLIS service.
+
 ## What an ALLIS Node Can Do
 
 An ALLIS node may be configured to support one or more of the following uses:
