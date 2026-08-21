@@ -10,6 +10,8 @@ These figures are planning assumptions. They are not historical financial statem
 
 KTS will update this document when it has actual customer contracts, deposits, invoices, collections, contractor agreements, payroll costs, insurance quotes, software costs, equipment costs, financing terms, and professional-service quotes.
 
+The full-capacity model is an illustrative planning case only; near-term financial decisions must use the lean-launch budget, actual cash on hand, actual customer deposits, actual expenses, and documented revenue evidence.
+
 ## Bootstrap Launch Boundary
 
 The $700,000–$750,000 financial model is a **future full-capacity scenario**, not an immediate funding request, current operating budget, current payroll plan, or representation of current revenue.
