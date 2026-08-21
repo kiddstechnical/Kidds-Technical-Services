@@ -16,6 +16,8 @@ This document is a planning model. It is not a loan application, loan approval, 
 
 KTS will revise this document after it receives actual contracts, invoices, deposits, customer-payment history, contractor agreements, payroll quotes, insurance quotes, financing terms, legal advice, accounting advice, and vendor pricing.
 
+Any funds received for the bootstrap launch will be controlled under the staged $25,000/$50,000 plan unless a separate written authorization approves a different purpose, amount, timeline, restriction set, and accountability process.
+
 ## Bootstrap Launch Boundary
 
 The $700,000–$750,000 financial model is a **future full-capacity scenario**, not an immediate funding request, current operating budget, current payroll plan, or representation of current revenue.
