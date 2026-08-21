@@ -1,3 +1,9 @@
+> **Repository role:** Current KTS business operations, customer offerings, lean-launch planning, evidence, and lender/SBDC preparation.
+>
+> **Funding boundary:** The immediate funding path is a staged $25,000 lean launch with a possible evidence-based expansion up to $50,000. Any $700,000–$750,000 model is a future full-capacity scenario only.
+>
+> **Future-platform boundary:** ALLIS and related architecture are not current KTS customer offerings, current revenue, or current loan-collateral claims.
+
 # Kidd’s Technical Services
 
 Kidd’s Technical Services, LLC (KTS) is a technical-services organization providing locally grounded mapping, public-information, digital-preservation, web-connected, archive, heritage, training, and managed-support services.
