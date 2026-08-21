@@ -10,6 +10,38 @@ These figures are planning assumptions. They are not historical financial statem
 
 KTS will update this document when it has actual customer contracts, deposits, invoices, collections, contractor agreements, payroll costs, insurance quotes, software costs, equipment costs, financing terms, and professional-service quotes.
 
+## Bootstrap Launch Boundary
+
+The $700,000–$750,000 financial model is a **future full-capacity scenario**, not an immediate funding request, current operating budget, current payroll plan, or representation of current revenue.
+
+It illustrates what KTS could require only after it has demonstrated customer demand, completed paid work, established reliable operating controls, documented actual costs, developed a credible revenue pipeline, and identified a justified path to larger-scale delivery capacity.
+
+The immediate KTS path is a lean, staged bootstrap launch:
+
+| Stage | Capital level | Immediate purpose |
+|---|---:|---|
+| **Stage 1: Lean launch** | $25,000 | Establish minimum operating readiness, validate customer demand, conduct outreach, issue proposals, collect deposits, deliver early paid projects, and protect controlled working capital. |
+| **Stage 2: Evidence-based expansion** | Up to an additional $25,000 | Expand only after KTS documents paid work, customer demand, reliable delivery, cash-flow needs, actual operating costs, and a justified use of additional capital. |
+| **Potential staged total** | Up to $50,000 | A possible bootstrap capitalization path, not a request to spend $50,000 immediately. |
+
+KTS will use existing capability first, including its existing web presence, available business-email capacity where appropriately authorized, QGIS, low-cost operating tools, and project-based delivery methods.
+
+KTS will not assume immediate large payroll, standing contractor commitments, major equipment purchases, office costs, large recurring software costs, ALLIS revenue, ALLIS product commercialization, or other speculative revenue as part of the lean launch.
+
+During the bootstrap stage, KTS will prioritize small, fixed-price, customer-funded services such as verified local business information, trusted information hubs, customer-access pages, QR-linked information, and local access maps. KTS will seek written customer approval and required deposits before beginning material work.
+
+The $700,000–$750,000 scenario should be revisited only after KTS has evidence supporting expansion, including:
+
+- Paid customer projects, collected deposits, and final payments
+- Documented direct project costs, delivery time, operating costs, and margins
+- A credible qualified pipeline, recurring-service opportunity, or signed customer work
+- Reliable bookkeeping, payment, proposal, approval, and project-record systems
+- A defined need for additional equipment, insurance, storage, security, outreach capacity, project-funded contractors, or staffing
+- A cash-flow and use-of-funds plan based on actual results rather than planning assumptions
+- Any required funder, lender, partner, legal, insurance, tax, or compliance review
+
+No amount in the future full-capacity scenario is a commitment to spend, hire, borrow, raise, purchase, deploy, or guarantee revenue. KTS will update financial projections and use-of-funds assumptions as actual customer results, verified costs, funding terms, and operating requirements become known.
+
 ## Projection Boundary
 
 ### ALLIS Boundary
